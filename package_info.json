@@ -1,0 +1,112 @@
+[
+  {
+    "name": "a2ps",
+    "desc": "Any-to-PostScript filter",
+    "url": "https://formulae.brew.sh/api/formula/a2ps.json",
+    "analytics": {
+      "30d": 140,
+      "90d": 323,
+      "365d": 1230
+    }
+  },
+  {
+    "name": "a52dec",
+    "desc": "Library for decoding ATSC A/52 streams (AKA 'AC-3')",
+    "url": "https://formulae.brew.sh/api/formula/a52dec.json",
+    "analytics": {
+      "30d": 22,
+      "90d": 92,
+      "365d": 416
+    }
+  },
+  {
+    "name": "aacgain",
+    "desc": "AAC-supporting version of mp3gain",
+    "url": "https://formulae.brew.sh/api/formula/aacgain.json",
+    "analytics": {
+      "30d": 73,
+      "90d": 205,
+      "365d": 653
+    }
+  },
+  {
+    "name": "aalib",
+    "desc": "Portable ASCII art graphics library",
+    "url": "https://formulae.brew.sh/api/formula/aalib.json",
+    "analytics": {
+      "30d": 156,
+      "90d": 375,
+      "365d": 2017
+    }
+  },
+  {
+    "name": "aamath",
+    "desc": "Renders mathematical expressions as ASCII art",
+    "url": "https://formulae.brew.sh/api/formula/aamath.json",
+    "analytics": {
+      "30d": 21,
+      "90d": 64,
+      "365d": 204
+    }
+  },
+  {
+    "name": "aardvark_shell_utils",
+    "desc": "Utilities to aid shell scripts or command-line users",
+    "url": "https://formulae.brew.sh/api/formula/aardvark_shell_utils.json",
+    "analytics": {
+      "30d": 12,
+      "90d": 51,
+      "365d": 209
+    }
+  },
+  {
+    "name": "abcde",
+    "desc": "Better CD Encoder",
+    "url": "https://formulae.brew.sh/api/formula/abcde.json",
+    "analytics": {
+      "30d": 76,
+      "90d": 186,
+      "365d": 855
+    }
+  },
+  {
+    "name": "abcl",
+    "desc": "Armed Bear Common Lisp: a full implementation of Common Lisp",
+    "url": "https://formulae.brew.sh/api/formula/abcl.json",
+    "analytics": {
+      "30d": 21,
+      "90d": 65,
+      "365d": 319
+    }
+  },
+  {
+    "name": "abcm2ps",
+    "desc": "ABC music notation software",
+    "url": "https://formulae.brew.sh/api/formula/abcm2ps.json",
+    "analytics": {
+      "30d": 35,
+      "90d": 88,
+      "365d": 415
+    }
+  },
+  {
+    "name": "abcmidi",
+    "desc": "Converts abc music notation files to MIDI files",
+    "url": "https://formulae.brew.sh/api/formula/abcmidi.json",
+    "analytics": {
+      "30d": 62,
+      "90d": 231,
+      "365d": 1112
+    }
+  },
+  {
+    "name": "abduco",
+    "desc": "Provides session management: i.e. separate programs from terminals",
+    "url": "https://formulae.brew.sh/api/formula/abduco.json",
+    "analytics": {
+      "30d": 14,
+      "90d": 37,
+      "365d": 182
+    }
+  }
+]

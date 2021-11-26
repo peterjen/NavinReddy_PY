@@ -12,7 +12,8 @@ print("\n#### MAP(function, sequence)")
 add_two = list(map(lambda a: a + 2, nums))
 print(add_two)
 
-# print(sum(nums))
+
 print("\n#### REDUCE(function, sequence)")
+print(sum(nums))
 total = reduce(lambda a, b: a + b, nums)
 print(total)

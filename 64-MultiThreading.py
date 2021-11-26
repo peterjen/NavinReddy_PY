@@ -20,10 +20,11 @@ t1 = Hello()
 t2 = Hi()
 
 t1.start()
+sleep(0.2)
 t2.start()
 
-t1.join()
-t2.join()
+t1.join() # wait t2 to join
+t2.join() # wait t1 to join
 
-print("BYE")
+print("BYE.............")
 

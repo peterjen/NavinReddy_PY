@@ -1,11 +1,12 @@
 lst = [2, 5, 3, 4]
 
 it = iter(lst)
-
+print(it)
 print(it.__next__())
 print(it.__next__())
 print(next(it))
-# print(next(it))
+print(next(it))
+# exit(0)
 
 print("##########")
 for i in lst:
@@ -32,7 +33,7 @@ class TopTen:
 
 values = TopTen()
 it = iter(values)
-print(it.__next__())
+print(it.__next__()," ---> run once here")
 print(next(it))
 #exit()
 

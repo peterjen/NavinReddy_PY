@@ -1,13 +1,14 @@
+# https://www.youtube.com/watch?v=mziIj4M_uwk&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=67
 def topten():
     n = 1
     while n <= 10:
-        yield n
+        yield n  #### YIELD will make your function as GENERATOR
         n += 1
 
 
 def showList(lst):
     for i in lst:
-        yield i
+        yield i  #### YIELD will make your function as GENERATOR
 
 
 v = topten()

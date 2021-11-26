@@ -6,6 +6,7 @@ import math
 vals = arr.array('i', [1, 2, -3, 4, 5])
 print(vals)
 print(vals.buffer_info())
+print(vals.typecode)
 # vals.reverse()
 # print(vals)
 print(vals.index(2))
